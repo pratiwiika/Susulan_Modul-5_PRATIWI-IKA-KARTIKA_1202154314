@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#DB7093</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="crismon">#DC143C</color>
+    <color name="coral">#FF7F50</color>
+    <color name="lightcoral"> #F08080</color>
+    <color name="white">#ffffff</color>
+</resources>
+
